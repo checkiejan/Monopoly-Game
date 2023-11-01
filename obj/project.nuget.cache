@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SziSGwYjZ9xsfxbFdE4mxGZoXyY+NPLUXOkqcPMG7b40/9WO8DLpvLHd3PLzaR55xJ4XkZ5/WY34LOPImj+XsA==",
+  "success": true,
+  "projectFilePath": "C:\\tin\\swib\\COS20007-OOP\\Custom\\Custom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hungt\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
